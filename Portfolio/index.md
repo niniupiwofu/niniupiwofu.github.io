@@ -15,7 +15,7 @@ categories: SDG portfolio visualization
 <div class="col-md-3">
 <img src="https://unstats.un.org/sdgs/report/2017/svg/goal-12.svg" alt="" style="width: 100%" type="image/svg+xml">
 </div>
-<div class="col-md-9" >
+<div class="col-md-9" markdown="1">
 * 2013年估计有7.67亿人生活在极端贫困线以下，低于1999年的17亿人。这意味着全球极端贫困率从1999年的28%下降到2013年的11%。
 * 2016年，全球有近10%的就业人口与其家人每人每日生活费不足1.90美元。年轻工作者要更加脆弱：9%的成年工作者及其家人生活在极端贫困中，而青年工作者的这一比例为15%。
 * 2016年，全球的失业者只有22%领取了失业救济金，重度残疾人只有28%得到残疾抚恤金，儿童只有35%享有社会保障，产妇只有41%享有孕产福利，超过退休年龄的人口有68%领取养老金。
