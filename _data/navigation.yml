@@ -1,26 +1,22 @@
 # Site navigation links
 
-- title: Teaching 教學
-  url: /teaching/
-  excerpt: "含体验式教学及混合式教学"
-  image: 300x200.gif
+- title: 秒速五厘米
+  url: /路/
+  excerpt: "动漫场景"
+  image: 5cm.jpg
 
-- title: i18nl10n 國際化及本地化
-  url: /i18nl10n/
-  excerpt: "含＂一带一路＂倡议"
-  image: 300x200.gif
+- title: 天空
+  url: /sky/
+  excerpt: "很好看吧?"
+  image: sky.jpg
 
-- title: SDG 永續發展
-  url: /SDG/
-  excerpt: "Sustainable Development Goals，亦译可持续发展，含＂生态文明＂倡议"
-  image: 300x200.gif
-
-- title: Contact 聯絡我
+- title: Contact me
   url: /contact/
   excerpt: "联络我"
   image: 300x200.gif  
   
-  title: 作品集
+ title: 作品集
   url: /Portfolio/
   excerpt: "作品集"
+  image: 1.gif
   
