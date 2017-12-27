@@ -9,14 +9,14 @@
   url: /sky/
   excerpt: "很好看吧?"
   image: sky.jpg
-
-- title: Contact me
-  url: /contact/
-  excerpt: "联络我"
-  image: 300x200.gif  
   
 - title: 作品集
   url: /Portfolio/
   excerpt: "作品集"
   image: 1.gif
+  
+- title: 联系我
+  url: /contact/
+  excerpt: "这个功能不可用"
+  image: bridge.gif 
   
