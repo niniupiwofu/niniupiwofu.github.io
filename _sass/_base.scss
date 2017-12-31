@@ -9,6 +9,10 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
+	background-image:url('../images/hair.png');
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	
 	@include font-size(16);
 }
 

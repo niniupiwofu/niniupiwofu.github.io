@@ -1,8 +1,12 @@
 ---
 layout: default
-title:  "欲練Jekyll神功，必先自裝Ruby"
-date:   2017-11-30 22:07:50 +0800
-categories: Jekyll Ruby update
+title:  "论头发是如何一步一步掉完的"
+date:   2017-12-31 14:51:52 +0800
+categories: 头发
+image:
+  feature: hair.png
+  teaser: hair.png
+ 
 ---
 欲練 `Jekyll` 神功，必先自裝 `Ruby` 這腳本語言的開發環境。
 

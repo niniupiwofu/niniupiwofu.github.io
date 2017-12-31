@@ -7,12 +7,12 @@
 /* Slider */
 
 .slide {
-    transform: translateX(-100%);
+	transform: translateX(-100%);
     @include media($medium) {
       transform: translateX(em(-600));
     }
     @include media($large) {
-      transform: translateX(em(-900));
+      transform: translateX(em(-900)); 
     }
   }
 
@@ -42,13 +42,17 @@
   transition: $sliding-menu-animation;
   &.slide {
     background: $danger-color;
+	background-image:url('../images/eye.jpg');
     transform: translateX(0); /* don't slide close button on small screens only */
+	
+	/* disable reset slide position
     @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
+      transform: translateX(em(-600));
     }
     @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
+      transform: translateX(em(-900));
     }
+	*/
   }
 }
 
