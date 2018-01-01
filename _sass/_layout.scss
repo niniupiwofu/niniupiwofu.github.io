@@ -55,8 +55,8 @@
 			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
 			height: $masthead-height;
 			font-family: $alt-font;
-			@include transition(color 0.4s 600ms cubic-bezier(0.23, 1, 0.32, 1));
- 			@include transition(background-color 0.4s 600ms cubic-bezier(0.23, 1, 0.32, 1));
+			@include transition(color 0.2s 600ms cubic-bezier(0.23, 1, 0.32, 1));
+ 			@include transition(background-color 0.2s 600ms cubic-bezier(0.23, 1, 0.32, 1));
 			&:before,
 			&:after {
 				content: '';
@@ -65,7 +65,7 @@
 				top: 0;
 				left: 0;
 				height: 3px;
-				@include transition(width 0.3600ms cubic-bezier(0.23, 1, 0.32, 1));
+				@include transition(width 0.2s 600ms cubic-bezier(0.23, 1, 0.32, 1));
 			}
 			&:before {
 				width: 100%;
@@ -81,7 +81,7 @@
 			}
 			&:hover {
  				color: $midnightblue;
- 				background-color: $yellow;
+ 				background-color: $Wildblueyonder;
  			}
 		}
 	}

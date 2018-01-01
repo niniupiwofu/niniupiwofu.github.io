@@ -6,14 +6,14 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: FangSong,\\4EFF\\5B8B,仿宋,Georgia,Times,"Times New Roman",serif;
+$base-font                   	: KaiTi_GB2312,\\6977\\4F53_GB2312,楷体_GB2312,Georgia,Times,"Times New Roman",serif;
 $heading-font                	: STLiti,\\534E\\6587\\96B6\\4E66,华文隶书,"Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
 
-$doc-font-size               	: 13;
-$doc-line-height             	: 26;
+$doc-font-size               	: 16;
+$doc-line-height             	: 28;
 
 $border-radius               	: 3px;
 
