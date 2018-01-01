@@ -9,9 +9,12 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-	background-image:url('../images/');
+	
+	
+	background-image:url('../images/cb.JPG');
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size: 100% 100%;
 
 	@include font-size(16);
 }
