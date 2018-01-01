@@ -5,8 +5,8 @@ date:   2017-12-31 14:51:52 +0800
 categories: jekyll notes
 
 image:
-  feature: hair.png
-  teaser: hair.png
+  feature: Bald.jpg
+  teaser: Bald.jpg
  
 ---
 欲練 `Jekyll` 神功，必先自裝 `Ruby` 這腳本語言的開發環境。
