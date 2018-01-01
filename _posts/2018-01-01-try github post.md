@@ -1,8 +1,13 @@
 ---
-layout: default
-title:  "欲用GitHub空間，可先自裝GitHub Desktop"
-date:   2017-12-01 22:07:50 +0800
-categories: Jekyll GitHub update
+layout: article
+title:  "post try"
+date:   2018-01-01 14:19:50 +0800
+categories: github notes
+
+image:
+  feature: girl.jpg
+  teaser: girl.jpg
+   
 ---
 欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。
 
