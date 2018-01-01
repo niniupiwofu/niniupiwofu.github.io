@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: $Wildblueyonder;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -146,6 +146,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+	  border: 3px solid $yellow;
     }
     .title {
       display: block;
@@ -166,6 +167,9 @@
         margin-left: 170px;
         @include font-size(16,no);
       }
+    }
+	.title:hover,.excerpt:hover,.teaser:hover{
+        color: $yellow;
     }
   }
   .sub-menu-item > li a {
