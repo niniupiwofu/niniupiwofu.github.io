@@ -28,6 +28,10 @@ gems:
 owner:
   name: lijunxing
   email: 593244237@qq.com
+  twitter: none
+  google:
+    ad-client:
+    ad-slot:
   bio: "李钧星 2016级网络与新媒体的一名学生 在廖汉腾老师的指导下努力的进行网站的体验及学习"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
