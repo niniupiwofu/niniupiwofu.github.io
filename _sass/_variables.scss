@@ -28,6 +28,7 @@ $Cream                        : #fffdd0;
 $midnightblue                 : #191970;
 $Wildblueyonder               : #a2add0;
 $yellow                       : #ffff00;
+$blue                         : #1f97d4;
 
 $body-color                  	: #ebebeb;
 
@@ -53,6 +54,7 @@ $table-hover-color           	: darken($table-background, 2);
 $table-stripe-color          	: darken($table-background, 4);
 $table-stripe-color-hover    	: darken($table-stripe-color, 5);
 
+$weibo							      : #e62127;
 $facebook-color					      : #3b5998;
 $flickr-color					        : #ff0084;
 $foursquare-color				      : #0cbadf;
@@ -92,8 +94,8 @@ $sliding-menu-background-hover : $Wildblueyonder;
 $sliding-menu-color-hover	 	   : $Cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 28px;
-$transition						         : 0.3s; // increase this to see the transformations in slow-motion
-$sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
+$transition						         : 0.1s; // increase this to see the transformations in slow-motion
+$sliding-menu-animation        : all 500ms cubic-bezier(0.6, -0.28, 0.735, 0.045);
 
 /*
    Badge variables
