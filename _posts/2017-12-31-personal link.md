@@ -5,8 +5,8 @@ date:   2017-12-31 14:51:52 +0800
 categories: jekyll notes
 
 image:
-  feature: Bald.jpg
-  teaser: Bald.jpg
+  feature: weibo.jpg
+  teaser: weibo.jpg
  
 ---
 
@@ -30,7 +30,10 @@ image:
 
 <img src="https://niniupiwofu.github.io/images/t.jpg" alt="03">
 
-#### 第四步：打开 ```_includes```档 中的 ```share-this.html``` 文件，将名称和链接换成 **github** 和 **weibo** 的，并在后面加 ```/{ site.owner.github }```, 这样它就会自动跳转到你的个人主页。具体操作如下图：
+#### 第四步：打开 ```_includes```档 中的 ```share-this.html``` 文件，将名称和链接换成 **github** 和 **weibo** 的，并在后面加 ```/{ site.owner.github }```(此处是两个{ {  } } ), 这样它就会自动跳转到你的个人主页。具体操作如下图：
 
 <img src="https://niniupiwofu.github.io/images/f.jpg" alt="04">
+
+- **owner** 指的是```_config.yml```档的 **owner**栏。
+- 微博需要先登录之后才能跳转个人主页。
 
