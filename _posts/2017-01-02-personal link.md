@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "修改文章底部个人信息的链接"
-date:   2017-12-31 14:51:52 +0800
+date:   2018-01-02 21:43:25 +0800
 categories: jekyll notes
 
 image:
