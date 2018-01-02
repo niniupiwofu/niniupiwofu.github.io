@@ -115,8 +115,9 @@
 
 .btn-social {
 	$social:
-    (facebook, $facebook-color),
-		(weibo, $weibo),
+		(github, $github-color),
+        (facebook, $facebook-color),
+		(weibo, $weibo-color),
 		(flickr, $flickr-color),
 		(foursquare, $foursquare-color),
 		(google-plus, $google-plus-color),
