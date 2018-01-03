@@ -2,7 +2,7 @@
 layout: article
 title:  "修改文章底部个人信息的链接"
 date:   2018-01-02 21:43:25 +0800
-categories: jekyll notes
+categories: posts rwd
 
 image:
   feature: weibo.jpg
