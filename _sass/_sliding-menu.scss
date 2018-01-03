@@ -42,7 +42,6 @@
   transition: $sliding-menu-animation;
   &.slide {
     background: $danger-color;
-	background-image:url('../images/eye.jpg');
     transform: translateX(0); /* don't slide close button on small screens only */
 	
 	/* disable reset slide position
