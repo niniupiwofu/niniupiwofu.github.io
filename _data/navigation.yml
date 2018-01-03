@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: 文章
-  url: /_posts/
+  url: /posts/
   excerpt: "SKRR"
   image: sky.jpg
   
