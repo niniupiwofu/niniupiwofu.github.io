@@ -8,6 +8,7 @@
 
 #masthead {
 	background-image: url('../images/evening.jpg');
+	background-repeat: no-repeat;
 	padding: $gutter;
 	z-index: 5;
 	@include transform(translate(0,0));
@@ -74,15 +75,15 @@
 			}
 			&:after {
 				width: 0;
-				background-color: $midnightblue;
+				background-color: $brown;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
 			&:hover {
- 				color: $midnightblue;
- 				background-color: $Wildblueyonder;
+ 				color: $orange;
+ 				background-color: $brown;
  			}
 		}
 	}

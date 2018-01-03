@@ -1,17 +1,17 @@
 # Site navigation links
 
-- title: 秒速五厘米
-  url: /路/
-  excerpt: "动漫场景"
-  image: 5cm.jpg
-
-- title: 天空
-  url: /sky/
+- title: 文章
+  url: /_posts/
   excerpt: "SKRR"
   image: sky.jpg
   
-- title: 作品集
-  url: /Portfolio/
+- title: 信息可视化作品集
+  url: /infovis/
+  excerpt: "动漫场景"
+  image: 5cm.jpg
+
+- title: Web作品集
+  url: /portfolio/
   excerpt: "作品集"
   image: 1.gif
   
