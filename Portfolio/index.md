@@ -10,7 +10,7 @@ image:
   
 ---
  
-
+## 期中网页作品
 
 
 
@@ -19,7 +19,7 @@ image:
  
  
 <div class="tiles">
-{% for post in site.categories.portfolio %}
+{% for post in site.categories.Portfolio %}
 {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 portfolio 的列出来-->
