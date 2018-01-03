@@ -5,16 +5,16 @@ date:   2018-01-02 21:43:25 +0800
 categories: posts rwd
 
 image:
-  feature: weibo.jpg
-  teaser: weibo.jpg
+  feature: s.jpg
+  teaser: s.jpg
  
 ---
 
-### 文章底部个人信息链接的修改
+### 文章底部个人信息链接的修改,效果如上图**↑**。
 
-效果如下图：
 
-<img src="https://niniupiwofu.github.io/images/o.jpg" alt="01">
+
+
 
 
 我以我增加的 **github** 及 **weibo** 个人主页为例
