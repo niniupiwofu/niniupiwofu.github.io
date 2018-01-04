@@ -24,7 +24,7 @@ image:
 
 #### 第二步：找到 ```_variables.scss```文件中的```Color variables```一栏，定义 **github** 及 **weibo** 两个颜色；如图：
 
-<img src="https://niniupiwofu.github.io/images/_variables.scss-screenshot.jpg" alt="02">
+<img src="https://niniupiwofu.github.io/images/variables.scss-screenshot.jpg" alt="02">
 
 #### 第三步：找到 ```_button.scss```文件中的 ```.btn-social```属性增加 ```(github, $github-color)``` 及 ```(weibo, $weibo-color)``` 两个元素；如图：
 
