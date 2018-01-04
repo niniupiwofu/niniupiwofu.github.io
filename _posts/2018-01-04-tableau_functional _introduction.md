@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau内置的统计功能的介绍"
 
-categories: posts infovis
+categories: posts visualization
 
 image:
   feature: tableau_logo.jpg
