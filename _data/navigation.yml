@@ -1,4 +1,9 @@
 # Site navigation links
+
+- title: 文章
+  url: /posts/
+  excerpt: "posts"
+  image: sky.jpg
   
 - title: 信息可视化作品集
   url: /infovis/
@@ -10,13 +15,8 @@
   excerpt: "WEB"
   image: landscape-flower.gif
   
-- title: 信息可视化文章
-  url: /posts/infovis/
-  excerpt: "信息可视化文章"
-  image: sky.jpg
-
-- title: WEB文章
-  url: /posts/rwd/
-  excerpt: "WEB文章"
+- title: 联系我
+  url: /contact/
+  excerpt: "联系？不存在的。"
   image: bridge.gif 
   
