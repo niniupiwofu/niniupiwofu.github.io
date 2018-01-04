@@ -2,18 +2,18 @@
 
 - title: 文章
   url: /posts/
-  excerpt: "SKRR"
+  excerpt: "posts"
   image: sky.jpg
   
 - title: 信息可视化作品集
   url: /infovis/
-  excerpt: "动漫场景"
-  image: 5cm.jpg
+  excerpt: "infovis"
+  image: landscpae-road.jpg
 
-- title: Web作品集
+- title: WEB作品集
   url: /Portfolio/
-  excerpt: "作品集"
-  image: 1.gif
+  excerpt: "WEB"
+  image: landscape-flower.gif
   
 - title: 联系我
   url: /contact/

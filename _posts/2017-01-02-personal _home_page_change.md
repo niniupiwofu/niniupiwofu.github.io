@@ -10,7 +10,7 @@ image:
  
 ---
 
-#### 文章底部个人信息链接的修改,效果如上图。 ![up](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515007109097&di=656629318b4e6c2a01ff1467662c7dbe&imgtype=0&src=http%3A%2F%2Ficonforest.com%2Fimages-0%2F15%2F423b2f5b3cf40f9410bc262cd2724282.gif)
+#### 文章底部个人信息链接的修改,效果如上图。 
 
 
 
