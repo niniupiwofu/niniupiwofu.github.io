@@ -12,14 +12,9 @@ image:
  
 ## 网页作品 
 * [**第一次网页作品**](http://niniupiwofu.github.io/Portfolio/web/web.html)
-
-
-#### 世界可持续发展目标报告：目标14
- 
- 
  
 <div class="tiles">
-{% for post in site.categories.Portfolio %}
+{% for post in site.categories.portfolio %}
 {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 portfolio 的列出来-->
