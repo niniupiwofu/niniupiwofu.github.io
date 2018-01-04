@@ -1,1 +1,1 @@
-<div class="tiles">{% for post in site.categories.infovis %}{% include post-grid.html %}{% endfor %}</div>
+<div class="tiles">{% for post in site.categories.posts infovis %}{% include post-grid.html %}{% endfor %}</div>
