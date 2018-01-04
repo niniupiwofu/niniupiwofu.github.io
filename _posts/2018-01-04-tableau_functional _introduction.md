@@ -1,12 +1,12 @@
 ---
 layout: article
 title:  "Tableau内置的统计功能的介绍"
-date:   2018-01-02 21:43:25 +0800
+
 categories: posts infovis
 
 image:
-  feature: information-screenshot.jpg
-  teaser: information-screenshot.jpg
+  feature: tableau_logo.jpg
+  teaser: tableau_logo.jpg
  
 ---
 
