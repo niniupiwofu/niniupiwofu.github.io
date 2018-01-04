@@ -14,7 +14,7 @@ image:
 * [**第一次网页作品**](http://niniupiwofu.github.io/Portfolio/web/web.html)
  
 <div class="tiles">
-{% for post in site.categories.portfolio %}
+{% for post in site.categories.Portfolio %}
 {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 portfolio 的列出来-->
