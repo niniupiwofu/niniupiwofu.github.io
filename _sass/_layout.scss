@@ -388,7 +388,11 @@
 }
 
 @media print {
-    #masthead,nav, button, html [type=button], a[href], .menu-screen {
+  a[href]:after {
+    content: none !important;
+  }
+    
+	#masthead,nav, button, html [type=button],.menu-screen {
         display: none;
     }
     html, body {
