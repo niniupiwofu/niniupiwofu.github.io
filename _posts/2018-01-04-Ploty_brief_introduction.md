@@ -2,7 +2,7 @@
 layout: article
 title:  "python plotly简介"
 
-categories: posts visualization
+categories: posts infovisnote
 
 image:
   feature: plotly_logo.jpg
