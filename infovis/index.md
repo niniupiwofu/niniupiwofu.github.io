@@ -6,7 +6,7 @@ modified:
 tags: []
 
 image: 
-  feature: 5cm.jpg
+  feature: landscpae-road.jpg
 ---
  
 #### [期中可视化小组作品](https://niniupiwofu.github.io/infovis/tableau/tab.html)
