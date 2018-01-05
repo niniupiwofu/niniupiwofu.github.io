@@ -5,8 +5,8 @@ date:   2018-01-01 23:26:50 +0800
 categories: posts rwd
 
 image:
-  feature: cn.jpg
-  teaser: cn.jpg  
+  feature: Icon information.jpg
+  teaser: Icon information.jpg  
 ---
 对于图片，首先我们先想到是背景图片。因为我们许许多的装饰都是用背景图片来实现的。既然这样，那么就从CSS控制背景图片讲起吧。
 
