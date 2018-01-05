@@ -48,7 +48,6 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages
   jekyll
   jekyll-feed
   jekyll-gist

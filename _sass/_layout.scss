@@ -371,7 +371,7 @@
 		@include font-size(12);
 		color: lighten($black,60);
 		a {
-			color: lighten($black,60);
+			
 			text-decoration: none;
 		}
 	}
@@ -392,7 +392,7 @@
     content: none !important;
   }
     
-	#masthead,nav, button, html [type=button],.menu-screen {
+	#masthead, nav, button, html [type=button],.menu-screen {
         display: none;
     }
     html, body {
@@ -421,16 +421,6 @@
 		height: 256mm;
 		outline: 2cm #cbecff solid;
 	}
-	
-	.page-content {
-	a[href^='http://']:after,
-	a[href^='https://']:after,
-	a[href^='ftp://']:after {
-	  display:none;
-    }
-
-
-
 		
     p {
 	    font-size: 0.625rem !important;		
