@@ -388,7 +388,7 @@
 }
 
 @media print {
-    #masthead,nav, button, html [type=button], attr(href), .menu-screen {
+    #masthead,nav, button, html [type=button], .page-content, .menu-screen {
         display: none;
     }
     html, body {
