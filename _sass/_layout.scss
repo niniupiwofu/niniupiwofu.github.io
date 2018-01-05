@@ -9,6 +9,7 @@
 #masthead {
 	background-image: url('../images/evening.jpg');
 	background-repeat: no-repeat;
+    background-size: cover;
 	padding: $gutter;
 	z-index: 5;
 	@include transform(translate(0,0));
