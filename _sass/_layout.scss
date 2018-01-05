@@ -388,7 +388,7 @@
 }
 
 @media print {
-    #masthead,nav, button, html [type=button], page-content, .menu-screen {
+    #masthead,nav, button, html [type=button], a[href], .menu-screen {
         display: none;
     }
     html, body {
@@ -418,11 +418,7 @@
 		outline: 2cm #cbecff solid;
 	}
 	
-	pre {
-	  white-space: pre-wrap !important;
-	  word-wrap: break-word;
-  }
-
+	.page-content {
 	a[href^='http://']:after,
 	a[href^='https://']:after,
 	a[href^='ftp://']:after {
