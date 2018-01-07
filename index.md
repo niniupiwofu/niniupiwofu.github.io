@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "GG"
+title: "文章"
 ---
 
 <div class="tiles">
