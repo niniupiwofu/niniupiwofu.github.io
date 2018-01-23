@@ -54,13 +54,3 @@ POI数据来自高德地图搜索服务API。数据可视化使用全国范围�
 
 <hr style="border-top:3px solid #3f87a6;margin: 50px 0px 50px 0px;">
 
-
-
-
-
-
-<div class="tiles">
-{% for post in site.categories.infovis %}
-{% include post-grid.html %}
-{% endfor %}
-</div>
