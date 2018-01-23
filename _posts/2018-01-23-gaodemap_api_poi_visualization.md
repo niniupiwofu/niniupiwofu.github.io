@@ -28,7 +28,7 @@ image:
 
 <div class='tableauPlaceholder' id='viz1516700754102' style='position: relative'><noscript><a href='#'><img alt='市场 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_18810&#47;sheet10&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='_18810&#47;sheet10' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_18810&#47;sheet10&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1516700754102');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-从上图可以看出二次元受众的比例不断增多，逐渐成为主流的消费群体，表明中国的动漫产业的潜在消费市场巨大，我国的动漫产业的处于高速的发展期，产业总值及其衍生的市场总值年年都有上升。
+从上图可以看出二次元受众的比例不断增多，说明有越来越多的人迈入死宅的“坑”，二次元的消费群体声势也日益声势浩大；我国的动漫产业的处于高速的发展期，产业总值及其衍生的市场总值年年都有上升；两者结合表明中国目前动漫产业的市场极其潜在消费市场都巨大。
 
 
 <hr style="border-top:3px solid #3f87a6;margin: 50px 0px 50px 0px;">
@@ -40,7 +40,7 @@ image:
 
 POI数据来自高德地图搜索服务API。数据可视化使用全国范围内截至2017年12月28号的数据，共**21386**条，每条POI数据包括**经度**、**纬度**、**名称**、**地址**、**类型**、**行政区**、**行政编码**和**联系电话**共**8**个属性。<br/>
 按照类型统计，POI数据共归为**19**大类，如交通设施服务、住宿服务、体育休闲服务、生活服务、餐饮服务、科教文化服务等。每一大类下又包括多级小类。以餐饮服务类为例，该一级类别下又包括中餐厅、咖啡厅和快餐厅等二级类别.
-另外还从国家数据网提取了地区分类（东中西）数据,从
+另外还从国家数据网提取了地区分类（东中西）数据。
 <br/>  
 
 + 数据处理
