@@ -5,6 +5,7 @@ categories: infovis
 
 image: 
   feature: infovis_final_work.jpg
+  teaser: infovis_final_work.jpg
 ---
 
 ## 摘要
